@@ -1,5 +1,5 @@
-import modelos.Bike;
-import modelos.Car;
+import models.Bike;
+import models.Car;
 
 public class Main {
     public static void main(String[] args) {
